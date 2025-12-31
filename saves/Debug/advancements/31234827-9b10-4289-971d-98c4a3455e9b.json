@@ -37645,13 +37645,6 @@
     },
     "done": true
   },
-  "rechiseled:recipes/misc/chisel": {
-    "criteria": {
-      "has_the_recipe": "2025-03-17 23:57:44 +0800",
-      "recipe_condition": "2025-03-17 23:57:44 +0800"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/cracked_blue_brick_slab_from_cracked_blue_bricks_stonecutting": {
     "criteria": {
       "has_cracked_blue_bricks": "2025-03-17 23:57:44 +0800",
@@ -50645,13 +50638,6 @@
     },
     "done": true
   },
-  "rechiseledcreate:recipes/misc/mechanical_chisel": {
-    "criteria": {
-      "has_the_recipe": "2025-08-22 04:06:27 +0800",
-      "recipe_condition": "2025-08-22 04:06:27 +0800"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/raw_zinc": {
     "criteria": {
       "has_item": "2025-08-22 04:06:27 +0800",
@@ -53496,12 +53482,6 @@
     },
     "done": true
   },
-  "cmi:echoes_south_cross": {
-    "criteria": {
-      "0": "2025-12-18 18:23:03 +0800"
-    },
-    "done": true
-  },
   "advanced_ae:recipes/misc/throughput_monitor_configurator": {
     "criteria": {
       "hasItem": "2025-12-18 18:23:03 +0800",
@@ -53709,12 +53689,6 @@
     "criteria": {
       "hasItem": "2025-12-18 18:23:03 +0800",
       "has_the_recipe": "2025-12-18 18:23:03 +0800"
-    },
-    "done": true
-  },
-  "cmi:echoes_north_star": {
-    "criteria": {
-      "0": "2025-12-18 18:23:03 +0800"
     },
     "done": true
   },
@@ -54057,6 +54031,109 @@
     "criteria": {
       "has_item": "2025-12-26 13:02:33 +0800",
       "has_the_recipe": "2025-12-26 13:02:33 +0800"
+    },
+    "done": true
+  },
+  "cmi:echoes_north_star": {
+    "criteria": {
+      "get_water_pump": "2025-12-30 12:47:42 +0800"
+    },
+    "done": true
+  },
+  "cmi:echoes_south_cross": {
+    "criteria": {
+      "get_accelerator": "2025-12-30 23:40:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_1_wheat": {
+    "criteria": {
+      "has_wheat": "2025-12-30 23:40:44 +0800",
+      "has_the_recipe": "2025-12-30 23:40:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_2_wheat": {
+    "criteria": {
+      "has_wheat": "2025-12-30 23:40:44 +0800",
+      "has_the_recipe": "2025-12-30 23:40:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cut_small_meats_from_smoking": {
+    "criteria": {
+      "has_raw_cut_small_meats": "2025-12-30 23:40:44 +0800",
+      "has_the_recipe": "2025-12-30 23:40:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_5_wheat": {
+    "criteria": {
+      "has_wheat": "2025-12-30 23:40:44 +0800",
+      "has_the_recipe": "2025-12-30 23:40:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cut_small_meats_from_smelting": {
+    "criteria": {
+      "has_raw_cut_small_meats": "2025-12-30 23:40:44 +0800",
+      "has_the_recipe": "2025-12-30 23:40:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cut_small_meats_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_cut_small_meats": "2025-12-30 23:40:44 +0800",
+      "has_the_recipe": "2025-12-30 23:40:44 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/sickle": {
+    "criteria": {
+      "has_flint": "2025-12-30 23:40:44 +0800",
+      "has_the_recipe": "2025-12-30 23:40:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_7_wheat": {
+    "criteria": {
+      "has_wheat": "2025-12-30 23:40:44 +0800",
+      "has_the_recipe": "2025-12-30 23:40:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_6_wheat": {
+    "criteria": {
+      "has_wheat": "2025-12-30 23:40:44 +0800",
+      "has_the_recipe": "2025-12-30 23:40:44 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/enamel_basin": {
+    "criteria": {
+      "has_bucket": "2025-12-30 23:40:44 +0800",
+      "has_the_recipe": "2025-12-30 23:40:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_8_wheat": {
+    "criteria": {
+      "has_wheat": "2025-12-30 23:40:44 +0800",
+      "has_the_recipe": "2025-12-30 23:40:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_4_wheat": {
+    "criteria": {
+      "has_wheat": "2025-12-30 23:40:44 +0800",
+      "has_the_recipe": "2025-12-30 23:40:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_3_wheat": {
+    "criteria": {
+      "has_wheat": "2025-12-30 23:40:44 +0800",
+      "has_the_recipe": "2025-12-30 23:40:44 +0800"
     },
     "done": true
   },
