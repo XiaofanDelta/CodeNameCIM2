@@ -54128,5 +54128,12 @@
     },
     "done": true
   },
+  "solcarrot:recipes/food_book": {
+    "criteria": {
+      "has_book": "2026-01-13 19:48:57 +0800",
+      "has_carrot": "2026-01-13 19:48:57 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
