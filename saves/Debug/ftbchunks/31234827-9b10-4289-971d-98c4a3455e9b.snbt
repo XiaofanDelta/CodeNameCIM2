@@ -3,7 +3,6 @@
 	max_force_load_chunks: 999
 	last_login_time: 1769545233213L
 	chunks: {
-		"minecraft:overworld": [{ x: 2, z: 0, time: 1759846048778L, force_loaded: 1759846054499L }]
 		"minecraft:the_nether": [
 			{ x: 0, z: -3, time: 1742676891006L, force_loaded: 1742676892771L }
 			{ x: -1, z: -2, time: 1742676890672L, force_loaded: 1742676893495L }
