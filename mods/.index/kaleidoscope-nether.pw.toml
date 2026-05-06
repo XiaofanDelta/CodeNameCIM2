@@ -1,19 +1,19 @@
-filename = 'kaleidoscope_nether-1.1.6-forge+mc1.20.1.jar'
+filename = 'kaleidoscope_nether-1.1.7-forge+mc1.20.1.jar'
 name = 'Kaleidoscope Nether'
 side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'kaleidoscope_nether-1.1.6-forge+mc1.20.1.jar'
+x-prismlauncher-version-number = 'kaleidoscope_nether-1.1.7-forge+mc1.20.1.jar'
 
 [download]
-hash = '7a6582aba8840ed12bcc5af4b3fcac09eb538318'
+hash = '129daf00e244a55943da3528fe485b588645c1ce'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7908142
+file-id = 8015210
 project-id = 1417862
 
 [[x-prismlauncher-dependencies]]

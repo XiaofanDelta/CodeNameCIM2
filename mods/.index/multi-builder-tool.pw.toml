@@ -1,19 +1,19 @@
-filename = 'MultiBuilderTool-1.20.1-1.0.20.jar'
-name = 'Multi Builder Tool'
+filename = 'MultiBuilderTool-1.20.1-1.0.22.jar'
+name = 'Multibuilder Tool'
 side = 'server'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'MultiBuilderTool-1.20.1-1.0.20.jar'
+x-prismlauncher-version-number = 'MultiBuilderTool-1.20.1-1.0.22.jar'
 
 [download]
-hash = 'f84f8a753d001ddebff7cef0ea55c217bf21f113'
+hash = '5903b4219282526587f8b43d47a7c945d4a10b2e'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7740488
+file-id = 8043781
 project-id = 827020
 
 [[x-prismlauncher-dependencies]]
@@ -21,15 +21,11 @@ addonId = '231951'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '224791'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
 addonId = '1343065'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '268566'
+addonId = '224791'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -37,13 +33,17 @@ addonId = '1337238'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
 addonId = '898746'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '840010'
+addonId = '268566'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '580555'
+addonId = '840010'
 type = 'OPTIONAL'
